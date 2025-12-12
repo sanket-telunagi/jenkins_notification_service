@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/jenkins_boy.png" alt="Notification Service Logo" width="600"/>
 </div>
----
 
 # Notification Service
 
